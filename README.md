@@ -24,5 +24,5 @@
            
           
           
-! [gif cobra](https://github.com/lucashnls/lucaca0311/blob/output/github-contribution-grid-snake.svg)
+! [gif cobra](https://github.com/lucaca0311/lucaca0311/blob/output/github-contribution-grid-snake.svg)
                      
