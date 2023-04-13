@@ -8,9 +8,9 @@
 
 -📖contate-me gmail: lucashenr613@gmail.com
 
-![lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashnls&show_icons=true&theme=dark)
+![lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaca0311&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashnls&hide_progress=false)](https://github.com/lucashnls/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaca0311&hide_progress=false)](https://github.com/lucaca0311/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
@@ -24,5 +24,5 @@
            
           
           
-! [gif cobra](https://github.com/lucashnls/lucashnls/blob/output/github-contribution-grid-snake.svg)
+! [gif cobra](https://github.com/lucashnls/lucaca0311/blob/output/github-contribution-grid-snake.svg)
                      
