@@ -27,7 +27,7 @@
           
   Apaixonado por progamação!🤩  
            
-          
+[![Snake animation](https://github.com/lucaca0311/lucaca0311/blob/output/github-contribution-grid-snake.svg)      
     
       
                      
