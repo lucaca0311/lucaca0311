@@ -23,10 +23,7 @@
   <img align="center" alt="React nt" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <div><br/>     
           
-    <a href="https://www.instagram.com/lucas_hnls/" target="_blank"><img src=![image](https://user-images.githubusercontent.com/117834541/231771678-582578ae-eeb1-4ea4-a0da-5ef15d0c4251.png)
-"
-    
-  </div>
+  Apaixonado por progamação!  
            
           
     
