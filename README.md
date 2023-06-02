@@ -8,7 +8,7 @@
 
 -📖contate-me gmail: lucashenr613@gmail.com
 
-[![lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaca0311&show_icons=true&theme=dark)
+[![lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaca0311&show_icons=true&theme=blue-green)
 
 [![Lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaca0311&show_icons=true&theme=blue-green)
 
