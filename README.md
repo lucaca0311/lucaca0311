@@ -10,8 +10,7 @@
 
 ![lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaca0311&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=\lucaca0311&hide_progress=false)](https://github.com/lucaca0311/github-readme-stats)
-
+https://github-readme-stats.vercel.app/api/top-langs/?Lucaca0311={Lucaca0311}&theme=blue-green
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
