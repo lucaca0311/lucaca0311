@@ -23,7 +23,7 @@
   <img align="center" alt="React nt" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <div><br/>     
           
-  Apaixonado por progamação!  
+  Apaixonado por progamação!🤩  
            
           
     
