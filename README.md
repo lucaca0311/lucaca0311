@@ -1,6 +1,6 @@
 😁Olá sou Lucas_hnls
 
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://lucashenr613@gmail.com)
 
 -💻Estudante de ciência da computação
 
