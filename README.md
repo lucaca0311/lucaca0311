@@ -10,6 +10,7 @@
 
 -📢procuro de primeiro de estágio/emprego
 
+![snake gif](https://github.com/lucaca0311/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 [![lucaca0311 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaca0311&show_icons=true&theme=blue-green)
 
