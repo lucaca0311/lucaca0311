@@ -6,7 +6,7 @@
 
 
 
--💻Estudante de ciência da computação
+-💻Estudante de Análise e Desenvolvimento de Sistemas
 
 -📢procuro de primeiro de estágio/emprego
 
